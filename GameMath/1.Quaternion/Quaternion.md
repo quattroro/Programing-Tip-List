@@ -44,4 +44,6 @@ i * i = (0,1)(0,1) = (-1,0) = -1 이 된다.
 ![Alt text](https://github.com/quattroro/Programing-Tip-List/blob/main/GameMath/1.Quaternion/Quaternion_Picture_1.png)   
 위의 그림과 같이 a + ib 복소수를 극좌표를 이용해서 표현하는 것을 복소수의 극좌표 표현 또는 극형식 이라고 한다.   
 
+
 ![Alt text](https://github.com/quattroro/Programing-Tip-List/blob/main/GameMath/1.Quaternion/Quaternion_Picture_2.png)   
+그리고 위의 그림과 같이 
