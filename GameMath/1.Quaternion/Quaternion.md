@@ -55,3 +55,4 @@ $$Z_{1}Z_{2} = AB(cos\theta_{1}cos\theta_{2} - sin\theta_{1}sin\theta_{2} + i(co
 $$Z_{1}Z_{2} = AB(cos(\theta_{1} + \theta_{2}) + isin(\theta_{1} + \theta_{2}))$$   
 ***
 이런 모습이 된다.
+즉 두 복소수$$Z_{1}$$과 $$Z_{2}$$ 의 곱은 AB의 길이를 가지고 $$\theta_{1} + \theta_{2}$$ 만큼의 각도를 가진 또 다른 복소수가 된다.
