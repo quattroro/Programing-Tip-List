@@ -46,4 +46,5 @@ i * i = (0,1)(0,1) = (-1,0) = -1 이 된다.
 
 
 ![Alt text](https://github.com/quattroro/Programing-Tip-List/blob/main/GameMath/1.Quaternion/Quaternion_Picture_2.png)   
-그리고 위의 그림과 같이 복소수 $$Z_{1}$$과 $$Z_{2}$$가 있다고 하고 두 복소수를 곱하면
+그리고 위의 그림과 같이 복소수 $$Z_{1}$$과 $$Z_{2}$$가 있다고 하고 두 복소수를 곱하면   
+$$Z_{1}Z_{2} = AB(cos\Theta_{1}cos\Theta_{2} - sin\Theta_{1}sin\Theta_{2} + i(cos\Theta_{1}sin\Theta_{2} + sin\Theta_{1}cos\Theta_{2}))$$
