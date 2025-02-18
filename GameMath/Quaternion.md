@@ -41,4 +41,4 @@ i * i = (0,1)(0,1) = (-1,0) = -1 이 된다.
 그리고 그 **크기가 1인 복소수를 단위복소수**라고 부른다.   
 
 ## 1.3 극좌표 표현과 회전
-<img src="https://github.com/quattroro/Programing-Tip-List/blob/main/GameMath" width="450px" height="300px" title="px(픽셀) 크기 설정" alt="Quaternion_Picture_1"></img><br/>
+![Alt text](https://github.com/quattroro/Programing-Tip-List/blob/main/GameMath/Quaternion_Picture_1.png)
