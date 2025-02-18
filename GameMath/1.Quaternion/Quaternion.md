@@ -47,10 +47,8 @@ i * i = (0,1)(0,1) = (-1,0) = -1 이 된다.
 
 ![Alt text](https://github.com/quattroro/Programing-Tip-List/blob/main/GameMath/1.Quaternion/Quaternion_Picture_2.png)   
 그리고 위의 그림과 같이 복소수 $$Z_{1}$$과 $$Z_{2}$$가 있다고 하고 두 복소수를 곱하면  
-<pre>
-<code>
+***
 $$Z_{1}Z_{2} = AB(cos\theta_{1}cos\theta_{2} - sin\theta_{1}sin\theta_{2} + i(cos\theta_{1}sin\theta_{2} + sin\theta_{1}cos\theta_{2}))$$   
-</code>
-</pre>
+***
 이렇게 전개가 가능하다. 이 전개식을 다시 삼각함수의 덧셈정리를 이용해서 정리하면 최종적으로   
 $$Z_{1}Z_{2} = AB(cos(\theta_{1} + \theta_{2}) + isin(\theta_{1} + \theta_{2}))$$ 이렇게 정리가 가능하다.
