@@ -51,4 +51,7 @@ i * i = (0,1)(0,1) = (-1,0) = -1 이 된다.
 $$Z_{1}Z_{2} = AB(cos\theta_{1}cos\theta_{2} - sin\theta_{1}sin\theta_{2} + i(cos\theta_{1}sin\theta_{2} + sin\theta_{1}cos\theta_{2}))$$   
 ***
 이렇게 전개가 가능하다. 이 전개식을 다시 삼각함수의 덧셈정리를 이용해서 정리하면 최종적으로   
-$$Z_{1}Z_{2} = AB(cos(\theta_{1} + \theta_{2}) + isin(\theta_{1} + \theta_{2}))$$ 이렇게 정리가 가능하다.
+***
+$$Z_{1}Z_{2} = AB(cos(\theta_{1} + \theta_{2}) + isin(\theta_{1} + \theta_{2}))$$   
+***
+이런 모습이 된다.
